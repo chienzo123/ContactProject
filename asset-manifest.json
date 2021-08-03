@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ContactProject/static/css/main.5f54edca.chunk.css",
+    "main.js": "/ContactProject/static/js/main.0efea136.chunk.js",
+    "main.js.map": "/ContactProject/static/js/main.0efea136.chunk.js.map",
+    "runtime-main.js": "/ContactProject/static/js/runtime-main.7de448cf.js",
+    "runtime-main.js.map": "/ContactProject/static/js/runtime-main.7de448cf.js.map",
+    "static/css/2.081f420c.chunk.css": "/ContactProject/static/css/2.081f420c.chunk.css",
+    "static/js/2.42116fcd.chunk.js": "/ContactProject/static/js/2.42116fcd.chunk.js",
+    "static/js/2.42116fcd.chunk.js.map": "/ContactProject/static/js/2.42116fcd.chunk.js.map",
+    "static/js/3.075e59e7.chunk.js": "/ContactProject/static/js/3.075e59e7.chunk.js",
+    "static/js/3.075e59e7.chunk.js.map": "/ContactProject/static/js/3.075e59e7.chunk.js.map",
+    "index.html": "/ContactProject/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/ContactProject/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.5f54edca.chunk.css.map": "/ContactProject/static/css/main.5f54edca.chunk.css.map",
+    "static/js/2.42116fcd.chunk.js.LICENSE.txt": "/ContactProject/static/js/2.42116fcd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ContactProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de448cf.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.42116fcd.chunk.js",
+    "static/css/main.5f54edca.chunk.css",
+    "static/js/main.0efea136.chunk.js"
+  ]
+}
